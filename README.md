@@ -20,3 +20,6 @@ PHP, HTML, CSS
 2. Buka terminal di folder proyek
 3. Jalankan: `php -S localhost:8000`
 4. Buka `http://localhost:8000` di browser
+
+## Author
+Naila Amelia-250180158
